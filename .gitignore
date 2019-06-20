@@ -1,2 +1,4 @@
 gurobi.log
 .ipynb_checkpoints/
+model.lp
+model.sol
